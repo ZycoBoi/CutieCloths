@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "White and Purple Futuristic New Collection Mobile Banner Ad.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
